@@ -1,4 +1,3 @@
-[![MasterHead](https://photos.app.goo.gl/NVsREyr39hwdTWVa9)](https://pramtikmedhi.io) 
 
 <h1 align="center">Hello, I'm Prantik</h1>
 <h3 align="center">Exploring Code | Building Ideas | Shaping Tomorrow with AI</h3>
