@@ -1,14 +1,7 @@
-
 <h1 align="center">Hello, I'm Prantik</h1>
 <h3 align="center">Exploring Code | Building Ideas | Shaping Tomorrow with AI</h3>
 
-
-   
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantikmedhi" alt="prantikmedhi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/prantikmedhi0" target="blank"><img src="https://img.shields.io/twitter/follow/prantikmedhi0?logo=twitter&style=for-the-badge" alt="prantikmedhi0" /></a> </p>
 
 - 👨‍💻I’m working with AI [WormGPT](https://prantikmedhi.github.io/WormGPT-AI/homepage.html)
 
