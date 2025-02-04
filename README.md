@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantikmedhi" alt="prantikmedhi" /></a> </p>
 
-- 👨‍💻I’m working with AI [WormGPT](https://prantikmedhi.github.io/WormGPT-AI/homepage.html)
 
-- 👨🏻‍💻I’m currently learning computer languages **C, C++, Python, Java**
+
+- 👨🏻‍💻I’m currently learning computer languages **C, C++, react, js, Python, Java**
 
 - 💻I’m looking to collaborate on **AI and ML**
 
