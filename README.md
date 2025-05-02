@@ -1,25 +1,44 @@
-<h1 align="center">Hello, I'm Prantik</h1>
-<h3 align="center">Exploring Code | Building Ideas | Shaping Tomorrow with AI</h3>
+<h1 align="center">Hey, I'm Prantik</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantikmedhi" alt="prantikmedhi" /></a> </p>
-
-
-
-- 👨🏻‍💻I’m currently learning computer languages **C, C++, react, js, Python, Java**
-
-- 💻I’m looking to collaborate on **AI and ML**
-
-- 📫 How to reach me **prantikpratimmedhi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prantikmedhi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prantikmedhi0" height="30" width="40" /></a>
-<a href="https://instagram.com/prantik.medhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prantik.medhi" height="30" width="40" /></a>
+<p align="center">
+  Founder of <a href="https://growvaa.com" target="_blank"><b>Growvaa</b></a> | Creative Developer | Digital Marketer
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+of+Growvaa;Web+%26+Shopify+Developer;AI+Chatbot+Creator;SEO+%7C+Ads+%7C+Marketing+Strategist&center=true&width=500&height=45">
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prantikmedhi&show_icons=true&locale=en&layout=compact" alt="prantikmedhi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prantikmedhi&" alt="prantikmedhi" /></p>
+## 🚀 About Me
+
+I'm Prantik, a passionate digital creator and founder of **Growvaa**, a Guwahati-based digital marketing agency.  
+I help businesses scale online through smart websites, automation, AI, and targeted marketing.
+
+- 💼 Professional in **Website + Shopify Development**
+- 🤖 Creator of intelligent **AI chatbots** for business
+- 🚀 Strategist in **SEO**, **Google Ads**, **Email & Social Media Marketing**
+- 🎯 Focused on results, design, and user experience
+
+---
+
+## 🧰 Tech & Tools I Use
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,shopify,figma,ai,photoshop,git,github,vercel,netlify" />
+</div>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="mailto:prantik@growvaa.com"><img src="https://img.shields.io/badge/Email-prantik@growvaa.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://growvaa.com"><img src="https://img.shields.io/badge/Website-growvaa.com-darkgreen?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/prantik"><img src="https://img.shields.io/badge/LinkedIn-prantik-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/prantik_dev"><img src="https://img.shields.io/badge/Twitter-@prantik_dev-1DA1F2?style=for-the-badge&logo=twitter"></a>
+</p>
+
+---
+
+<p align="center"><i>“I turn ideas into digital realities — clean, fast & growth-driven.”</i></p>
