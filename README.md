@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+of+Growvaa;Website Developer;AI+Chatbot+Creator;SEO+%7C+Ads+%7C+Marketing+Strategist&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+of+Growvaa;Website+Developer;AI+Chatbot+Creator;SEO+%7C+Ads+%7C+Marketing+Strategist&center=true&width=500&height=45">
 </p>
 
 ---
@@ -24,9 +24,9 @@ I help businesses scale online through smart websites, automation, AI, and targe
 
 ## 🧰 Tech & Tools I Use
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vite,next.js,react,typescript, tailwind,bootstrap,Shopify, ai,git,github,vercel,netlify,replit" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,nextjs,react,ts,tailwind,bootstrap,shopify,git,github,vercel,netlify,replit" />
+</p>
 
 ---
 
@@ -36,7 +36,7 @@ I help businesses scale online through smart websites, automation, AI, and targe
   <a href="mailto:prantikpratimmedhi@gmail.com"><img src="https://img.shields.io/badge/Email-prantikpratimmedhi@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
   <a href="https://growvaa.in"><img src="https://img.shields.io/badge/Website-growvaa.com-darkgreen?style=for-the-badge&logo=google-chrome"></a>
   <a href="https://linkedin.com/in/prantikmedhi"><img src="https://img.shields.io/badge/LinkedIn-prantikmedhi-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/prantikmedhi0><img src="https://img.shields.io/badge/Twitter-@prantikmedhi0-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://twitter.com/prantikmedhi0"><img src="https://img.shields.io/badge/Twitter-@prantikmedhi0-1DA1F2?style=for-the-badge&logo=twitter"></a>
 </p>
 
 ---
