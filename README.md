@@ -1,44 +1,55 @@
-<h1 align="center">Hey, I'm Prantik</h1>
+# Hi, I'm Prantik – Frontend Developer & Founder of Growvaa
 
-<p align="center">
-  Founder of <a href="https://growvaa.in" target="_blank"><b>Growvaa</b></a> | Website Developer | Freelancer 
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+of+Growvaa;Website+Developer;AI+Chatbot+Creator;SEO+%7C+Ads+%7C+Marketing+Strategist&center=true&width=500&height=45">
-</p>
+Welcome to my GitHub profile! I’m a passionate **frontend developer** with a strong focus on building clean, fast, and responsive web interfaces using modern technologies like **React**, **Next.js**, and **Tailwind CSS**.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm Prantik, a passionate digital creator and founder of **Growvaa**, a digital marketing agency.  
-I help businesses scale online through smart websites, automation, AI, and targeted marketing.
-
-- 💼 Professional in **Website Development**
-- 🤖 Creator of intelligent **AI chatbots** for business
-- 🚀 Strategist in **SEO**, **Google Ads**, **Email & Social Media Marketing**
-- 🎯 Focused on results, design, and user experience
-
----
-
-## 🧰 Tech & Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vite,nextjs,react,ts,tailwind,bootstrap,shopify,git,github,vercel,netlify,replit" />
-</p>
+- **Name:** Prantik Medhi  
+- **Location:** India  
+- **Education:** Completed Class 10, currently preparing for JEE  
+- **Founder:** [Growvaa.in](https://growvaa.in) – a quality-first digital marketing platform  
+- **Core Skills:** React, Next.js, Tailwind CSS, JavaScript, HTML, CSS  
+- **Interests:** UI/UX design, responsive design, building interactive web apps  
+- **Objective:** To create efficient, scalable, and visually engaging user experiences
 
 ---
 
-## 🌐 Let’s Connect
+## My Tech Stack
 
-<p align="center">
-  <a href="mailto:prantikpratimmedhi@gmail.com"><img src="https://img.shields.io/badge/Email-prantikpratimmedhi@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://growvaa.in"><img src="https://img.shields.io/badge/Website-growvaa.com-darkgreen?style=for-the-badge&logo=google-chrome"></a>
-  <a href="https://linkedin.com/in/prantikmedhi"><img src="https://img.shields.io/badge/LinkedIn-prantikmedhi-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/prantikmedhi0"><img src="https://img.shields.io/badge/Twitter-@prantikmedhi0-1DA1F2?style=for-the-badge&logo=twitter"></a>
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
 
-<p align="center"><i>“I turn ideas into digital realities — clean, fast & growth-driven.”</i></p>
+## Connect with Me
+
+- **Website:** [Growvaa.in](https://growvaa.in)  
+- **LinkedIn:** [linkedin.com/in/prantikmedhi](https://linkedin.com/in/prantikmedhi)  
+- **GitHub:** [github.com/prantikmedhi](https://github.com/prantikmedhi)  
+- **Email:** prantikpratimmedhi@gmail.com  
+- **Instagram:** [@prantik.medhi](https://instagram.com/prantik.medhi)
+
+---
+
+## GitHub Stats
+
+![Prantik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prantikmedhi&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prantikmedhi&layout=compact&theme=radical)
+
+---
+
+## SEO Keywords
+
+<!--
+Prantik Medhi, Prantik Frontend Developer, React Developer India, Next.js Developer, Growvaa Founder, Tailwind CSS Developer, GitHub Portfolio Web Developer, Indian Web Developer, Class 11 Developer, UI/UX Developer, JavaScript Programmer, Growvaa.in, Prantik Medhi Instagram
+-->
+
+Thanks for visiting – let’s build something great!
