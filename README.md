@@ -56,12 +56,12 @@ I design and build **impact-focused digital products** with clean architecture, 
 
 ### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,postgres" alt="Backend and Database" />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres" alt="Backend and Database" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" alt="Tools and Platforms" />
 </p>
 
 ---
