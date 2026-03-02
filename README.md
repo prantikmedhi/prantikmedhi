@@ -97,12 +97,13 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="https://x.com/prantikmedhii" target="_blank"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
-<!-- Optional: Add a Buy Me a Coffee button if you like -->
-<!-- <p>
+ <p>
   <a href="https://www.buymeacoffee.com/prantikmedhi" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_my_work-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
-</p> -->
+</p>
+
+
 
 ---
 
