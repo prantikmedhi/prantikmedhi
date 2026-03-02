@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prantik Pratim Medhi</h1>
 <h3 align="center">Full-Stack Developer from Assam, India — building modern, high-performance web products for global clients.</h3>
+## 🚀 My Coding Battlefield
 
+![GitHub Space Game](game.gif)
 <!-- Improved Header with Avatar/Banner - Highly Recommended!
      Option 1: Use a circular avatar of yourself.
      Option 2: Use a custom banner image (like a code snippet or abstract design).
