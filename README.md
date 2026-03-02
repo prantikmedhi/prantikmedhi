@@ -84,27 +84,6 @@ I design and build **impact-focused digital products** with clean architecture, 
 
 ---
 
-## 🏆 Featured Projects
-
-### 1) Interior Design Showcase
-*A visual-first portfolio experience for a design studio.*
-- **Key Features:** Smooth page transitions, immersive gallery, responsive layout, optimized for performance.
-- **Stack:** React, Vite, Framer Motion
-- 🔗 [**Live Demo**](https://metaloak-v1.vercel.app) | [📁 GitHub Repo](https://github.com/prantikmedhi/your-repo-link) <!-- Add Repo Link if public -->
-
-### 2) Luxury Jewellery Boutique
-*A premium e-commerce UI focused on conversion and brand elegance.*
-- **Key Features:** High-performance animations (GSAP), dynamic product showcase, mobile-first design.
-- **Stack:** React, Vite, GSAP, Framer Motion, MySQL
-- 🔗 [**Live Demo**](https://gilded-aura-eight.vercel.app) | [📁 GitHub Repo](https://github.com/prantikmedhi/your-repo-link) <!-- Add Repo Link if public -->
-
-### 3) Mirza Hospital Platform
-*A comprehensive web app for modern hospital management.*
-- **Key Features:** Secure patient records system, intuitive appointment scheduling, admin dashboard with analytics.
-- **Stack:** Next.js, PostgreSQL, Tailwind CSS, Prisma
-- 🔗 [**Live Demo**](https://www.mirzamultispecialityhospital.in)
-
----
 
 ## 🤝 Let's Connect
 
