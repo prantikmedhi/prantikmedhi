@@ -8,11 +8,7 @@
      Option 2: Use a custom banner image (like a code snippet or abstract design).
      Replace the URL below with your own image links.
 -->
-<p align="center">
-  <a href="https://prantikmedhi.co.in">
-    <img src="https://your-image-url.com/your-avatar.png" alt="Prantik's Avatar" width="150" style="border-radius: 50%;"/>
-  </a>
-</p>
+
 
 <!-- Consolidated and Unified Badges - using 'for-the-badge' for a bolder look -->
 <p align="center">
