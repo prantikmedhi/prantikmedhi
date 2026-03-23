@@ -51,12 +51,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 
 
----
-
-## 🔍 SEO Keywords
-
-`Prantik Pratim Medhi`, `Full Stack Developer India`, `React Developer`, `TypeScript Developer`, `Next.js Developer`, `Freelance Web Developer`, `Portfolio Website Developer`, `Frontend Engineer`, `Backend Developer`, `SEO-friendly Web Development`
-
----
-
 > *I build fast, beautiful, and business-focused web products that users love and teams can scale.*
