@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prantik Pratim Medhi</h1>
-<h3 align="center">Full-Stack Developer from Assam, India — building modern, high-performance web products for global clients.</h3>
+
 ## 🚀 My Coding Battlefield
 
 ![GitHub Space Game](game.gif)
