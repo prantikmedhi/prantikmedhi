@@ -41,4 +41,4 @@ If you're working on agent tooling, applied LLM products, or web devtools, I'm d
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prantikmedhi&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prantikmedhi&theme=dark&hide_border=true&date_format=false)](https://git.io/streak-stats)
