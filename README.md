@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1000&color=E5E7EB&center=true&vCenter=true&width=680&lines=Agent+tools+%7C+Research+automation+%7C+Data+workflows;Building%2C+documenting%2C+and+learning+in+public" alt="Animated intro" />
 
+
+<div class="tenor-gif-embed" data-postid="5637098882294640067" data-share-method="host" data-aspect-ratio="3.35616" data-width="100%"><a href="https://tenor.com/view/%D7%9E%D7%A9%D7%95%D7%91-%D7%94%D7%95%D7%A8%D7%93%D7%AA-%D7%9E%D7%91%D7%98-%D7%A9%D7%95%D7%A0%D7%95%D7%AA-%D7%A9%D7%95%D7%91-gif-5637098882294640067">משוב הורדת מבט שונות שוב Sticker</a>from <a href="https://tenor.com/search/%D7%9E%D7%A9%D7%95%D7%91+%D7%94%D7%95%D7%A8%D7%93%D7%AA+%D7%9E%D7%91%D7%98+%D7%A9%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%95%D7%91-stickers">משוב הורדת מבט שונות שוב Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br />
 
 <a href="https://prantikmedhi.co.in">
