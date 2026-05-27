@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Prantik Medhi</h1>
+# 👋 Prantik Medhi
 
 <p align="center">
-  I build AI-first web apps and devtools (TypeScript/Next.js + Python).
+  <strong>Building AI-first web apps and devtools</strong> | TypeScript/Next.js + Python | Open to collaboration
 </p>
 
 <p align="center">
@@ -21,22 +21,67 @@
 
 ---
 
-## what I'm building
+## 🚀 What I'm Building
 
-- **ClawNexus**: a realtime dashboard for multi-agent systems (OpenClaw)
-- **b2b-leads-ai**: a Google Maps lead finder + Sheets export
-- **MetaReview**: PR guardrails for data teams (SQL review, PII risk, lineage impact)
+I'm focused on creating intelligent tools that bridge the gap between AI and practical applications.
 
-## collab?
+- **🤖 ClawNexus** — Real-time dashboard for multi-agent systems (OpenClaw)
+- **🗺️ b2b-leads-ai** — Google Maps lead finder with Sheets export integration
+- **📋 MetaReview** — PR guardrails for data teams (SQL review, PII detection, lineage impact analysis)
 
-If you're working on agent tooling, applied LLM products, or web devtools, I'm down to collaborate.
+---
 
-## side quest
+## 💼 Tech Stack
 
-![GitHub Space Game](game.gif)
+**Languages:** TypeScript | Python | JavaScript
 
+**Frontend:** Next.js | React | TailwindCSS
 
+**Backend:** Node.js | FastAPI | PostgreSQL
 
+**Tools & Platforms:** Git | Docker | Vercel | AWS
 
+---
 
+## 🎯 Areas of Expertise
 
+- 🤖 **AI/LLM Integration** — Building with LLMs, prompt engineering, agent tooling
+- 🌐 **Full-Stack Development** — End-to-end web applications
+- 📊 **Data Tools** — SQL analysis, data pipeline optimization
+- 🔌 **API Design** — Building robust, scalable APIs
+- 🛠️ **DevTools** — Creating developer-focused products
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm actively looking to collaborate on:
+- **Agent tooling & multi-agent systems**
+- **Applied LLM products**
+- **Web devtools & infrastructure**
+- **Open-source projects**
+
+**Let's build something great together!**
+
+---
+
+## 📊 GitHub Stats
+
+![Prantik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prantikmedhi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prantikmedhi&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 💡 Outside of Code
+
+- ☕ Fueled by coffee and curiosity
+- 📖 Always learning about AI, product strategy, and startups
+- 🎮 Occasional gamer
+- 🌍 Passionate about building tools that make an impact
+
+---
+
+**⭐️ If you find my work interesting, feel free to star my repositories!**
+
+*Last updated: May 27, 2026*
