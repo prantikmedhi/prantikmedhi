@@ -1,12 +1,12 @@
-# 👋 Prantik Medhi
+# Prantik Medhi
 
 <p align="center">
-  <strong>Building AI-first web apps and devtools</strong> | TypeScript/Next.js + Python | Open to collaboration
+  <strong>Learning by building practical tools, agent workflows, and useful web products.</strong>
 </p>
 
 <p align="center">
   <a href="https://prantikmedhi.co.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-prantikmedhi.co.in-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-prantikmedhi.co.in-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:info.prantik@gmail.com">
     <img src="https://img.shields.io/badge/Email-info.prantik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -15,57 +15,59 @@
     <img src="https://img.shields.io/badge/LinkedIn-prantikmedhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/prantikmedhii" target="_blank">
-    <img src="https://img.shields.io/badge/X-@prantikmedhii-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-@prantikmedhii-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
 ---
 
-## 🚀 What I'm Building
+## About
 
-I'm focused on creating intelligent tools that bridge the gap between AI and practical applications.
+I am currently learning the process of turning ideas into working software: planning the product, shaping the user flow, building the interface, wiring the APIs, and documenting what I learn along the way.
 
-- **🤖 ClawNexus** — Real-time dashboard for multi-agent systems (OpenClaw)
-- **🗺️ b2b-leads-ai** — Google Maps lead finder with Sheets export integration
-- **📋 MetaReview** — PR guardrails for data teams (SQL review, PII detection, lineage impact analysis)
+Most of my recent work is around agent tools, research automation, data review workflows, and small business utilities. I care about making projects clear enough that someone else can understand the problem, try the tool, and see where the project is going next.
 
----
+## Featured Builds
 
-## 💼 Tech Stack
+| Project | What it explores | Stack / tools |
+|---|---|---|
+| **SPL Forge** | A product concept and MVP plan for a Splunk-focused workspace that turns plain-language intent into SPL queries, dashboards, alerts, and app-ready artifacts. The main learning area is execution-aware agent workflows: generate, test, inspect, repair, and export. | TypeScript, Node.js, VS Code extension ideas, Splunk, MCP, product docs |
+| [**Lore**](https://github.com/prantikmedhi/lore) | A NotebookLM orchestration toolkit for repeatable source-grounded research pipelines. It turns raw sources into cited answers, reports, slide decks, study packs, and handoff bundles for MCP-aware assistants. | Python, NotebookLM, MCP, CLI workflows, research automation |
+| [**ClawNexus**](https://github.com/prantikmedhi/ClawNexus) | A visual console for managing OpenClaw-style agent gateways: chat sessions, agents, channels, cron jobs, providers, skills, marketplace flows, and MCP-style tooling through a 2D office interface. | Vite, React, TypeScript, WebSocket-style UX, Recharts, OpenSpec |
+| [**b2b-leads-ai**](https://github.com/prantikmedhi/b2b-leads-ai) | A local business lead finder that searches Google Maps-style data, filters prospects, and exports useful results to Google Sheets. The focus is building a real workflow from prompt to reviewed leads. | Next.js, Tailwind CSS, OpenRouter, Serper.dev, Google Sheets API |
+| [**MetaReview**](https://github.com/prantikmedhi/MetaReview) | A pull-request guardrail for data engineering changes. It reads SQL diffs, enriches them with OpenMetadata context, scores risk, and posts review guidance back to GitHub. | Python, GitHub Actions, OpenMetadata, Gemini, SQL parsing |
 
-**Languages:** TypeScript | Python | JavaScript
+## What I Am Practicing
 
-**Frontend:** Next.js | React | TailwindCSS
+- Building small but complete product loops instead of only demos.
+- Writing better READMEs, setup guides, and project roadmaps.
+- Connecting interfaces to real APIs, exports, and automation steps.
+- Learning how agent-style tools can be tested, constrained, and explained.
+- Keeping projects understandable for future contributors and users.
 
-**Backend:** Node.js | FastAPI | PostgreSQL
+## Current Toolbox
 
-**Tools & Platforms:** Git | Docker | Vercel | AWS
+**Languages:** TypeScript, JavaScript, Python
 
----
+**Frontend:** React, Next.js, Vite, Tailwind CSS
 
-## 🎯 Areas of Expertise
+**Backend and automation:** Node.js, Python CLIs, API routes, GitHub Actions
 
-- 🤖 **AI/LLM Integration** — Building with LLMs, prompt engineering, agent tooling
-- 🌐 **Full-Stack Development** — End-to-end web applications
-- 📊 **Data Tools** — SQL analysis, data pipeline optimization
-- 🔌 **API Design** — Building robust, scalable APIs
-- 🛠️ **DevTools** — Creating developer-focused products
+**Data and integrations:** Google Sheets API, OpenMetadata, NotebookLM workflows, Splunk concepts, MCP-style tooling
 
----
+**Deployment and workflow:** Git, GitHub, Vercel, Docker basics
 
-## 🤝 Open to Collaboration
+## Open to Learning With Others
 
-I'm actively looking to collaborate on:
-- **Agent tooling & multi-agent systems**
-- **Applied LLM products**
-- **Web devtools & infrastructure**
-- **Open-source projects**
+I am interested in collaborating on:
 
-**Let's build something great together!**
+- Agent tooling and multi-agent interfaces
+- Research automation and source-grounded workflows
+- Code review and data workflow tools
+- Practical web apps with clear user value
+- Open-source projects where documentation matters
 
----
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 ![Prantik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prantikmedhi&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -73,15 +75,10 @@ I'm actively looking to collaborate on:
 
 ---
 
-## 💡 Outside of Code
+<p align="center">
+  Thanks for visiting. I am still learning, building, breaking things, fixing them, and documenting the path.
+</p>
 
-- ☕ Fueled by coffee and curiosity
-- 📖 Always learning about AI, product strategy, and startups
-- 🎮 Occasional gamer
-- 🌍 Passionate about building tools that make an impact
-
----
-
-**⭐️ If you find my work interesting, feel free to star my repositories!**
-
-*Last updated: May 27, 2026*
+<p align="center">
+  <em>Last updated: May 27, 2026</em>
+</p>
