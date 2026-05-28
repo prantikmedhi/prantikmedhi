@@ -35,7 +35,7 @@
       </p>
     </td>
     <td width="42%" valign="top">
-      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Professional coding workspace animation" width="100%" />
+      <img src="https://media.giphy.com/media/begSgSG5lCl8bxkBiv/giphy.gif" alt="Anime coding workspace animation" width="100%" />
     </td>
   </tr>
 </table>
