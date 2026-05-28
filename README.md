@@ -1,11 +1,19 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/wkOLlTiZbecAAAAd/sunset-anime.gif" alt="Anime aesthetic banner with a person and sunset background" width="100%" height="220" />
 
 </div>
 
 
 [![Spotify Now Playing](https://spotibadge.vercel.app/api/now-playing/.eJwVzstOg0AUgOFXMbO2yZzxwIA72mg0scNwtXTH3Ci0IKXWJhjfvbj98y3-XzKRZxIla_2qBNzip5do2zjB5S5lQ172A31rK4GbFfDudNBZeRXyKz3_8KICFtNZHT9F-n6KbslZFuuhtbYGWbkidmMvVlmiodzvu7TPO7Pb9J5r6DxdszyUvtf0OLoPxub5Mo5IHolZTuRUD9_t8WFrzaFdmm6XqAJFNdboEEJkoa8YBL4zWAeAyjr27y6Lo2Cd9phFj3tI0QYGdegs1DpUHA2QvzuKZklP.wbelYHQXHfjM9zgS9yqWxhGw1oM.svg?background_type=color&border_color=898989&background_color=111111&compact=true)](https://spotibadge.vercel.app/redirect/.eJwVzstOg0AUgOFXMbO2yZzxwIA72mg0scNwtXTH3Ci0IKXWJhjfvbj98y3-XzKRZxIla_2qBNzip5do2zjB5S5lQ172A31rK4GbFfDudNBZeRXyKz3_8KICFtNZHT9F-n6KbslZFuuhtbYGWbkidmMvVlmiodzvu7TPO7Pb9J5r6DxdszyUvtf0OLoPxub5Mo5IHolZTuRUD9_t8WFrzaFdmm6XqAJFNdboEEJkoa8YBL4zWAeAyjr27y6Lo2Cd9phFj3tI0QYGdegs1DpUHA2QvzuKZklP.wbelYHQXHfjM9zgS9yqWxhGw1oM)
+
+
+
+
+
+
+
+
+
 <br />
 
 <table>
