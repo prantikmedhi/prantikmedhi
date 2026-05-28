@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1000&color=E5E7EB&center=true&vCenter=true&width=680&lines=Agent+tools+%7C+Research+automation+%7C+Data+workflows;Building%2C+documenting%2C+and+learning+in+public" alt="Animated intro" />
 
-
-
 <br />
 
 <a href="https://prantikmedhi.co.in">
@@ -37,7 +35,7 @@
       </p>
     </td>
     <td width="42%" valign="top">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Minimal coding animation" width="100%" />
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Professional coding workspace animation" width="100%" />
     </td>
   </tr>
 </table>
