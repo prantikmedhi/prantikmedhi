@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <img src="https://media1.tenor.com/m/wkOLlTiZbecAAAAd/sunset-anime.gif" alt="Anime aesthetic banner with a person and sunset background" width="100%" height="220" />
 
 </div>
@@ -29,7 +27,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,nodejs,tailwind,html,css,git,github,docker,vercel,aws&theme=dark" alt="Tech stack logos" />
+<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,tailwind,git,github,docker,vercel&theme=dark" alt="Core tech stack logos" />
+
+<p>
+  TypeScript · Python · React · Next.js · Node.js · Tailwind CSS · Git · Docker · Vercel
+</p>
 
 </div>
 
@@ -66,16 +68,16 @@
 <div align="center">
 
 <a href="https://prantikmedhi.co.in">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0f0f" alt="Portfolio" />
 </a>
 <a href="mailto:info.prantik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0f0f0f?style=flat-square&logo=gmail&logoColor=white&labelColor=0f0f0f" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/prantikmedhi">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f0f" alt="LinkedIn" />
 </a>
 <a href="https://x.com/prantikmedhii">
-  <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <img src="https://img.shields.io/badge/X-0f0f0f?style=flat-square&logo=x&logoColor=white&labelColor=0f0f0f" alt="X" />
 </a>
 
 </div>
