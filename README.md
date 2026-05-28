@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=170&section=header&text=Prantik%20Medhi&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Learning%20by%20building%20practical%20software&descAlignY=60&descSize=15" alt="Prantik Medhi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1000&color=E5E7EB&center=true&vCenter=true&width=680&lines=Agent+tools+%7C+Research+automation+%7C+Data+workflows;Building%2C+documenting%2C+and+learning+in+public" alt="Animated intro" />
+<img src="https://media1.tenor.com/m/i8lIzIlzeHoAAAAd/cyberpunk-hacker.gif" alt="Top banner screen animation" width="100%" />
 
 <br />
 
