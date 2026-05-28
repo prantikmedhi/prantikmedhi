@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=170&section=header&text=Prantik%20Medhi&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Learning%20by%20building%20practical%20software&descAlignY=60&descSize=15" alt="Prantik Medhi" />
 
-<img src="https://media1.tenor.com/m/1qipwrh10fIAAAAd/anime-sunrise.gif" alt="Anime sunrise banner with soft motion" width="100%" height="220" />
+<img src="https://media1.tenor.com/m/KQUCuar06_0AAAAd/girl-wind.gif" alt="Anime aesthetic banner with a person and wind effect" width="100%" height="220" />
 
 <br />
 
