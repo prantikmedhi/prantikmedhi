@@ -44,7 +44,7 @@
 | [**ClawNexus**](https://github.com/prantikmedhi/ClawNexus) | Visual console for OpenClaw-style agent gateways, sessions, providers, skills, cron jobs, and MCP-style tooling. | Vite, React, TypeScript |
 | [**b2b-leads-ai**](https://github.com/prantikmedhi/b2b-leads-ai) | Local business lead finder with Google Maps-style search, filtering, review, and Google Sheets export. | Next.js, Tailwind CSS, OpenRouter, Google Sheets |
 | [**MetaReview**](https://github.com/prantikmedhi/MetaReview) | Pull-request guardrail that reviews SQL diffs with OpenMetadata context and risk-focused GitHub comments. | Python, GitHub Actions, OpenMetadata, Gemini |
-| [**ProofOrBluff**](https://github.com/prantikmedhi/ProofOrBluff_MLH_Midnight) | Privacy-first bluffing card game built for Midnight, where claims are challenged and resolved with zero-knowledge proofs in a more playful, social game loop. | JavaScript, Midnight, game design, zero-knowledge concepts |
+| [**ProofOrBluff**](https://github.com/bytewizard42i/ProofOrBluff_MLH_Midnight) | Privacy-first bluffing card game built for Midnight, where claims are challenged and resolved with zero-knowledge proofs in a more playful, social game loop. | JavaScript, Midnight, game design, zero-knowledge concepts |
 
 ## Current Focus
 
