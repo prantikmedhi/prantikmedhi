@@ -1,22 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=170&section=header&text=Prantik%20Medhi&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Learning%20by%20building%20practical%20software&descAlignY=60&descSize=15" alt="Prantik Medhi" />
 
-<img src="https://media1.tenor.com/m/KQUCuar06_0AAAAd/girl-wind.gif" alt="Anime aesthetic banner with a person and wind effect" width="100%" height="220" />
-
-<br />
-
-<a href="https://prantikmedhi.co.in">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:info.prantik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/prantikmedhi">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/prantikmedhii">
-  <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
+<img src="https://media1.tenor.com/m/wkOLlTiZbecAAAAd/sunset-anime.gif" alt="Anime aesthetic banner with a person and sunset background" width="100%" height="220" />
 
 </div>
 
@@ -70,6 +56,27 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=prantikmedhi&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=ffffff" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantikmedhi&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="Top languages" />
+
+</div>
+
+<br />
+
+## Connect
+
+<div align="center">
+
+<a href="https://prantikmedhi.co.in">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:info.prantik@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/prantikmedhi">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/prantikmedhii">
+  <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 
 </div>
 
