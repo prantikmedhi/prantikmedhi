@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=170&section=header&text=Prantik%20Medhi&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Learning%20by%20building%20practical%20software&descAlignY=60&descSize=15" alt="Prantik Medhi" />
+
 
 <img src="https://media1.tenor.com/m/wkOLlTiZbecAAAAd/sunset-anime.gif" alt="Anime aesthetic banner with a person and sunset background" width="100%" height="220" />
 
