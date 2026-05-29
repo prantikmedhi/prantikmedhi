@@ -21,7 +21,7 @@ I build useful software from rough ideas: product-shaped interfaces, agent workf
 <br />
 
 <a href="https://spotibadge.vercel.app/redirect/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ">
-  <img src="https://spotibadge.vercel.app/api/now-playing/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=420&height=105&content_size=small&compact=true&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&show_status=true" alt="Spotify Now Playing" width="420" height="105" />
+  <img src="https://spotibadge.vercel.app/api/now-playing/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=760&height=190&content_size=medium&compact=false&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&show_status=true" alt="Spotify Now Playing" width="760" height="190" />
 </a>
 
 </div>
@@ -31,27 +31,33 @@ I build useful software from rough ideas: product-shaped interfaces, agent workf
 
 <br />
 
-<div align="center">
-
-**Recently played**
-
-<a href="https://spotibadge.vercel.app/redirect-recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ">
-  <img src="https://spotibadge.vercel.app/api/recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=420&height=210&content_size=small&compact=true&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0" alt="Spotify Recently Played" width="420" height="210" />
-</a>
-
-**Top artists**
-
-<a href="https://spotibadge.vercel.app/redirect-top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term">
-  <img src="https://spotibadge.vercel.app/api/top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=420&height=245&content_size=small&compact=true&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term" alt="Spotify Top Artists" width="420" height="245" />
-</a>
-
-**Top tracks**
-
-<a href="https://spotibadge.vercel.app/redirect-top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term">
-  <img src="https://spotibadge.vercel.app/api/top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=420&height=245&content_size=small&compact=true&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term" alt="Spotify Top Tracks" width="420" height="245" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Recently played</strong>
+      <br />
+      <a href="https://spotibadge.vercel.app/redirect-recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ">
+        <img src="https://spotibadge.vercel.app/api/recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=360&height=210&content_size=small&compact=true&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0" alt="Spotify Recently Played" width="360" height="210" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <strong>Top artists</strong>
+      <br />
+      <a href="https://spotibadge.vercel.app/redirect-top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term">
+        <img src="https://spotibadge.vercel.app/api/top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=360&height=210&content_size=small&compact=true&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term" alt="Spotify Top Artists" width="360" height="210" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Top tracks</strong>
+      <br />
+      <a href="https://spotibadge.vercel.app/redirect-top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term">
+        <img src="https://spotibadge.vercel.app/api/top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=360&height=210&content_size=small&compact=true&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term" alt="Spotify Top Tracks" width="360" height="210" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </details>
 
