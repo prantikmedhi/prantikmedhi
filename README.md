@@ -1,8 +1,7 @@
 <div align="center">
 
-# Prantik Medhi
+# Prantik Pratim Medhi
 
-I build useful software from rough ideas: product-shaped interfaces, agent workflows, automation tools, and documentation that makes the work easier to trust.
 
 
 <br />
