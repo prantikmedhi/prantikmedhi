@@ -21,7 +21,7 @@ I build useful software from rough ideas: product-shaped interfaces, agent workf
 <br />
 
 <a href="https://spotibadge.vercel.app/redirect/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ">
-  <img src="https://spotibadge.vercel.app/api/now-playing/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=760&height=190&content_size=medium&compact=false&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&show_status=true" alt="Spotify Now Playing" width="760" height="190" />
+  <img src="https://spotibadge.vercel.app/api/now-playing/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=760&height=190&content_size=medium&compact=false&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&show_status=true" alt="Spotify Now Playing" width="1250" height="190" />
 </a>
 
 </div>
@@ -48,7 +48,7 @@ I build useful software from rough ideas: product-shaped interfaces, agent workf
 
 <p align="center">
   <a href="https://spotibadge.vercel.app/redirect-top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term">
-    <img src="https://spotibadge.vercel.app/api/top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=1200&height=350&content_size=large&compact=false&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term" alt="Spotify Top Tracks" width="1200" height="400" />
+    <img src="https://spotibadge.vercel.app/api/top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=1200&height=350&content_size=large&compact=false&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term" alt="Spotify Top Tracks" width="1200" height="350" />
   </a>
 </p>
 
