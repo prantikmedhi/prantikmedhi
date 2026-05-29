@@ -4,18 +4,6 @@
 
 I build useful software from rough ideas: product-shaped interfaces, agent workflows, automation tools, and documentation that makes the work easier to trust.
 
-<a href="https://prantikmedhi.co.in">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:info.prantik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/prantikmedhi">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/prantikmedhii">
-  <img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X" />
-</a>
 
 <br />
 <br />
