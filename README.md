@@ -20,7 +20,7 @@ I build useful software from rough ideas: product-shaped interfaces, agent workf
 <br />
 <br />
 
-[![Spotify Now Playing](https://spotibadge.vercel.app/api/now-playing/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=430&height=105&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&show_status=true)](https://spotibadge.vercel.app/redirect/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ)
+[![Spotify Now Playing](https://spotibadge.vercel.app/api/now-playing/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=420&height=105&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&show_status=true)](https://spotibadge.vercel.app/redirect/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ)
 
 </div>
 
@@ -33,25 +33,36 @@ I build useful software from rough ideas: product-shaped interfaces, agent workf
 
 **Recently played**
 
-[![Spotify Recently Played](https://spotibadge.vercel.app/api/recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=460&height=220&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0)](https://spotibadge.vercel.app/redirect-recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ)
+[![Spotify Recently Played](https://spotibadge.vercel.app/api/recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=420&height=210&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0)](https://spotibadge.vercel.app/redirect-recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ)
 
 **Top artists**
 
-[![Spotify Top Artists](https://spotibadge.vercel.app/api/top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=460&height=260&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term)
+[![Spotify Top Artists](https://spotibadge.vercel.app/api/top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=420&height=245&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term)
 
 **Top tracks**
 
-[![Spotify Top Tracks](https://spotibadge.vercel.app/api/top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=460&height=260&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term)
+[![Spotify Top Tracks](https://spotibadge.vercel.app/api/top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=420&height=245&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term)
 
 </div>
 
 </details>
 
-## About
-
-I am learning by building: shaping ideas into interfaces, connecting APIs, testing real workflows, and writing docs that make projects easier to understand.
-
-Right now I am especially interested in agent tooling, research automation, data review systems, Splunk development concepts, and small business utilities.
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>About</h2>
+      <p>
+        I am currently learning how to turn ideas into useful software: shaping the product, building the interface, connecting APIs, testing workflows, and writing documentation that makes the work easier to understand.
+      </p>
+      <p>
+        My recent projects focus on agent tooling, research automation, data review workflows, Splunk development concepts, and small business utilities.
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Anime coding workspace animation" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
