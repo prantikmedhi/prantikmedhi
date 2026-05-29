@@ -1,103 +1,90 @@
 <div align="center">
 
+# Prantik Medhi
+
+I build useful software from rough ideas: product-shaped interfaces, agent workflows, automation tools, and documentation that makes the work easier to trust.
+
+<a href="https://prantikmedhi.co.in">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:info.prantik@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/prantikmedhi">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/prantikmedhii">
+  <img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X" />
+</a>
+
+<br />
+<br />
+
+[![Spotify Now Playing](https://spotibadge.vercel.app/api/now-playing/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=30363d&background_color=0d1117&width=540&height=135&song_color=f8fafc&artist_color=c9d1d9&status_color=8b949e&show_status=true)](https://spotibadge.vercel.app/redirect/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ)
 
 </div>
 
-Recently Playing:
-[![Spotify Now Playing](https://spotibadge.vercel.app/api/now-playing/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=898989&background_color=ababab&width=540&height=135&song_color=f2f2f2&artist_color=d6d6d6&status_color=d6d6d6&show_status=true)](https://spotibadge.vercel.app/redirect/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ)
-
-
-
-
-Recently Played:[[![Spotify Now Playing](https://spotibadge.vercel.app/api/recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=898989&background_color=ababab&width=600&height=300&song_color=f2f2f2&artist_color=d6d6d6&status_color=d6d6d6)](https://spotibadge.vercel.app/redirect-recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ)
-
-
-top artist
-
-[![Spotify Now Playing](https://spotibadge.vercel.app/api/top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=898989&background_color=ababab&width=600&height=350&song_color=f2f2f2&artist_color=d6d6d6&status_color=d6d6d6&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term)
-
-
-
-top track
-
-[![Spotify Now Playing](https://spotibadge.vercel.app/api/top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=898989&background_color=ababab&width=600&height=350&song_color=f2f2f2&artist_color=d6d6d6&status_color=d6d6d6&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term)
+<details>
+<summary><strong>Spotify stats</strong></summary>
 
 <br />
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h2>About</h2>
-      <p>
-        I am currently learning how to turn ideas into useful software: shaping the product, building the interface, connecting APIs, testing workflows, and writing documentation that makes the work easier to understand.
-      </p>
-      <p>
-        My recent projects focus on agent tooling, research automation, data review workflows, Splunk development concepts, and small business utilities.
-      </p>
-    </td>
-    <td width="42%" valign="top">
-      <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Anime coding workspace animation" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## Tech Stack
+**Recently played**
+
+[![Spotify Recently Played](https://spotibadge.vercel.app/api/recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=30363d&background_color=0d1117&width=600&height=300&song_color=f8fafc&artist_color=c9d1d9&status_color=8b949e)](https://spotibadge.vercel.app/redirect-recently-played/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ)
+
+**Top artists**
+
+[![Spotify Top Artists](https://spotibadge.vercel.app/api/top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=30363d&background_color=0d1117&width=600&height=350&song_color=f8fafc&artist_color=c9d1d9&status_color=8b949e&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-artist/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term)
+
+**Top tracks**
+
+[![Spotify Top Tracks](https://spotibadge.vercel.app/api/top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ.svg?background_type=color&border_color=30363d&background_color=0d1117&width=600&height=350&song_color=f8fafc&artist_color=c9d1d9&status_color=8b949e&time_range=short_term)](https://spotibadge.vercel.app/redirect-top-track/.eJwVzk9PgzAYgPGvYnrWhHYvULwhWetgiGiAhAvpn7ehk7kNZ-Y0fnfx-uR3eH7ITO5JWmdfq8br-hPr4z4LNocsqVSUt1fpBxiLYzqDZKyT8Rkvtkrb-bG8606XrmDjxBHW08Hu-avwZbS7TgL7QpYrRoewn7cPddAZFP2gHBNhS9cnmj_pCnr23YziZdpKm09ZQ26JXU6eZ_V-9m83JdrRL834JWquAwMKHNAEWBJpRnnkLChOQaNj_-5jcQFFZ0KGEMYhBIDcgkkcUmUSHYOl5PcP_h1H8Q.wjWxFuva4yQL3fFQiywaZuz53wQ?time_range=short_term)
+
+</div>
+
+</details>
+
+## About
+
+I am learning by building: shaping ideas into interfaces, connecting APIs, testing real workflows, and writing docs that make projects easier to understand.
+
+Right now I am especially interested in agent tooling, research automation, data review systems, Splunk development concepts, and small business utilities.
+
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,tailwind,git,github,docker,vercel&theme=dark" alt="Core tech stack logos" />
-
-<p>
-  TypeScript · Python · React · Next.js · Node.js · Tailwind CSS · Git · Docker · Vercel
-</p>
+<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,tailwind,git,github,docker,vercel&theme=dark" alt="TypeScript, Python, React, Next.js, Node.js, Tailwind CSS, Git, GitHub, Docker, and Vercel" />
 
 </div>
 
 ## Selected Work
 
-| Project | Focus | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **SPL Forge** | Splunk-focused product concept for turning natural language into SPL queries, dashboards, alerts, and app-ready artifacts. | TypeScript, Node.js, Splunk, MCP |
-| [**Lore**](https://github.com/prantikmedhi/lore) | NotebookLM orchestration toolkit for repeatable, source-grounded research pipelines and cited artifacts. | Python, NotebookLM, MCP, CLI |
-| [**ClawNexus**](https://github.com/prantikmedhi/ClawNexus) | Visual console for OpenClaw-style agent gateways, sessions, providers, skills, cron jobs, and MCP-style tooling. | Vite, React, TypeScript |
-| [**b2b-leads-ai**](https://github.com/prantikmedhi/b2b-leads-ai) | Local business lead finder with Google Maps-style search, filtering, review, and Google Sheets export. | Next.js, Tailwind CSS, OpenRouter, Google Sheets |
-| [**MetaReview**](https://github.com/prantikmedhi/MetaReview) | Pull-request guardrail that reviews SQL diffs with OpenMetadata context and risk-focused GitHub comments. | Python, GitHub Actions, OpenMetadata, Gemini |
-| [**ProofOrBluff**](https://github.com/bytewizard42i/ProofOrBluff_MLH_Midnight) | Privacy-first bluffing card game built for Midnight, where claims are challenged and resolved with zero-knowledge proofs in a more playful, social game loop. | JavaScript, Midnight, game design, zero-knowledge concepts |
+| **SPL Forge** | Turns natural language into SPL queries, dashboards, alerts, and app-ready Splunk artifacts. | TypeScript, Node.js, Splunk, MCP |
+| [**Lore**](https://github.com/prantikmedhi/lore) | Orchestrates NotebookLM-style research pipelines into repeatable, cited artifacts. | Python, NotebookLM, MCP, CLI |
+| [**ClawNexus**](https://github.com/prantikmedhi/ClawNexus) | Visual console for agent gateways, sessions, providers, skills, jobs, and MCP-style tooling. | Vite, React, TypeScript |
+| [**b2b-leads-ai**](https://github.com/prantikmedhi/b2b-leads-ai) | Finds and reviews local business leads with filtering and Google Sheets export. | Next.js, Tailwind CSS, OpenRouter, Google Sheets |
+| [**MetaReview**](https://github.com/prantikmedhi/MetaReview) | Reviews SQL diffs with OpenMetadata context and risk-focused GitHub comments. | Python, GitHub Actions, OpenMetadata, Gemini |
+| [**ProofOrBluff**](https://github.com/bytewizard42i/ProofOrBluff_MLH_Midnight) | Privacy-first bluffing card game where claims are challenged with zero-knowledge proof concepts. | JavaScript, Midnight, game design |
 
 ## Current Focus
 
 - Building complete product loops, not only demos.
-- Making agent-style workflows easier to inspect, test, and explain.
-- Improving documentation, setup guides, and project roadmaps.
-- Practicing clean interfaces for real workflows.
+- Making agent workflows easier to inspect, test, and explain.
+- Improving setup guides, project roadmaps, and developer documentation.
+- Designing clean interfaces for practical workflows.
 
 ## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prantikmedhi&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db&icon_color=ffffff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantikmedhi&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d1d5db" alt="Top languages" />
-
-</div>
-
-<br />
-
-## Connect
-
-<div align="center">
-
-<a href="https://prantikmedhi.co.in">
-  <img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0f0f" alt="Portfolio" />
-</a>
-<a href="mailto:info.prantik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f0f0f?style=flat-square&logo=gmail&logoColor=white&labelColor=0f0f0f" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/prantikmedhi">
-  <img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0f0f" alt="LinkedIn" />
-</a>
-<a href="https://x.com/prantikmedhii">
-  <img src="https://img.shields.io/badge/X-0f0f0f?style=flat-square&logo=x&logoColor=white&labelColor=0f0f0f" alt="X" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prantikmedhi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f8fafc&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantikmedhi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f8fafc&text_color=c9d1d9" alt="Top languages" />
 
 </div>
 
@@ -105,6 +92,6 @@ top track
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=95&section=footer" alt="Footer" />
+<sub>Building in public, learning in layers.</sub>
 
 </div>
