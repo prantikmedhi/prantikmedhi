@@ -1,0 +1,53 @@
+[
+  {
+    "label": "TypeScript",
+    "slug": "typescript",
+    "accent": "#3178C6"
+  },
+  {
+    "label": "Python",
+    "slug": "python",
+    "accent": "#3776AB"
+  },
+  {
+    "label": "JavaScript",
+    "slug": "javascript",
+    "accent": "#F7DF1E"
+  },
+  {
+    "label": "Next.js",
+    "slug": "nextdotjs",
+    "accent": "#111111"
+  },
+  {
+    "label": "GitHub",
+    "slug": "github",
+    "accent": "#24292F"
+  },
+  {
+    "label": "Tailwind CSS",
+    "slug": "tailwindcss",
+    "accent": "#06B6D4"
+  },
+  {
+    "label": "MCP",
+    "slug": null,
+    "accent": "#8B5CF6",
+    "short": "MC"
+  },
+  {
+    "label": "Vercel",
+    "slug": "vercel",
+    "accent": "#000000"
+  },
+  {
+    "label": "React",
+    "slug": "react",
+    "accent": "#61DAFB"
+  },
+  {
+    "label": "Docker",
+    "slug": "docker",
+    "accent": "#2496ED"
+  }
+]
