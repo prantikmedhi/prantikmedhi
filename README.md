@@ -81,16 +81,6 @@
 
 ## GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prantikmedhi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f8fafc&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantikmedhi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f8fafc&text_color=c9d1d9" alt="Top languages" />
-
-</div>
-
-<br />
-
-<div align="center">
 
 <sub>Building in public, learning in layers.</sub>
 
