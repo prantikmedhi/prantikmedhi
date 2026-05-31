@@ -75,15 +75,13 @@
 
 ## Current Focus
 
-- Building complete product loops, not only demos.
-- Making agent workflows easier to inspect, test, and explain.
-- Designing clean interfaces for practical workflows.
+- Building products that feel complete, not just impressive in a demo.
+- Getting better at DevOps, deployment workflows, and the operational side of shipping software.
+- Thinking more seriously about security in architecture, integrations, and day-to-day engineering decisions.
+- Making tools and interfaces that are clear, useful, and easy for people to work with.
 
 
 
-<sub>Building in public, learning in layers.</sub>
-
-</div>
 
 <br />
 
