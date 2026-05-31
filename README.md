@@ -79,7 +79,6 @@
 - Making agent workflows easier to inspect, test, and explain.
 - Designing clean interfaces for practical workflows.
 
-## GitHub
 
 
 <sub>Building in public, learning in layers.</sub>
