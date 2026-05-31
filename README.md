@@ -12,6 +12,7 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=prantikmedhi&color=dc143c)
 <details>
 <summary><strong>Spotify stats</strong></summary>
 
