@@ -57,9 +57,7 @@
 ## Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,tailwind,git,github,docker,vercel&theme=dark" alt="TypeScript, Python, React, Next.js, Node.js, Tailwind CSS, Git, GitHub, Docker, and Vercel" />
-
+  <img src="./assets/tech-stack-slider-light.gif" alt="Sliding tech stack" width="100%" />
 </div>
 
 ## Selected Work
