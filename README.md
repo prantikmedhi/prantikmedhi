@@ -77,7 +77,6 @@
 
 - Building complete product loops, not only demos.
 - Making agent workflows easier to inspect, test, and explain.
-- Improving setup guides, project roadmaps, and developer documentation.
 - Designing clean interfaces for practical workflows.
 
 ## GitHub
