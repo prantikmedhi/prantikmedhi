@@ -1,0 +1,45 @@
+name: Update tech stack
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-tech-stack:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh stack data from repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stack_data.py --user prantikmedhi
+
+      - name: Rebuild stack GIF
+        run: python scripts/generate_stack_gif.py
+
+      - name: Commit updated stack assets
+        run: |
+          if git diff --quiet -- data/stack_items.json assets/tech-stack-slider-light.gif; then
+            echo "No stack changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/stack_items.json assets/tech-stack-slider-light.gif
+          git commit -m "chore: refresh tech stack"
+          git push
