@@ -57,7 +57,7 @@
 ## Stack
 
 <div align="center">
-  <img src="tech-stack-slider-light.gif" alt="Sliding tech stack" width="100%" />
+  <img src="./assets/tech-stack-slider-light.gif" alt="Sliding tech stack" width="100%" />
 </div>
 
 ## Selected Work
