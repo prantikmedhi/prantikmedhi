@@ -15,14 +15,14 @@
     "accent": "#F7DF1E"
   },
   {
+    "label": "Rust",
+    "slug": "rust",
+    "accent": "#000000"
+  },
+  {
     "label": "Next.js",
     "slug": "nextdotjs",
     "accent": "#111111"
-  },
-  {
-    "label": "GitHub",
-    "slug": "github",
-    "accent": "#24292F"
   },
   {
     "label": "Tailwind CSS",
@@ -30,10 +30,19 @@
     "accent": "#06B6D4"
   },
   {
-    "label": "MCP",
-    "slug": null,
-    "accent": "#8B5CF6",
-    "short": "MC"
+    "label": "Node.js",
+    "slug": "nodedotjs",
+    "accent": "#5FA04E"
+  },
+  {
+    "label": "React",
+    "slug": "react",
+    "accent": "#61DAFB"
+  },
+  {
+    "label": "GitHub",
+    "slug": "github",
+    "accent": "#24292F"
   },
   {
     "label": "Vercel",
@@ -41,9 +50,10 @@
     "accent": "#000000"
   },
   {
-    "label": "React",
-    "slug": "react",
-    "accent": "#61DAFB"
+    "label": "MCP",
+    "slug": null,
+    "accent": "#8B5CF6",
+    "short": "MC"
   },
   {
     "label": "Docker",
