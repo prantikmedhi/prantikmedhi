@@ -36,6 +36,8 @@
   </a>
 </p>
 
+## Make your own:
+(https://github.com/prantikmedhi/spotibadge)
 </details>
 
 <table>
