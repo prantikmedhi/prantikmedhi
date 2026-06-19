@@ -67,7 +67,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **SPL Forge** (https://github.com/Utpal-Kalita/SPL-Forge.git) | Turns natural language into SPL queries, dashboards, alerts, and app-ready Splunk artifacts. | TypeScript, Node.js, Splunk, MCP |
+| **SPL Forge** (https://github.com/Utpal-Kalita/SPL-Forge) | Turns natural language into SPL queries, dashboards, alerts, and app-ready Splunk artifacts. | TypeScript, Node.js, Splunk, MCP |
 | [**Lore**](https://github.com/prantikmedhi/lore) | Orchestrates NotebookLM-style research pipelines into repeatable, cited artifacts. | Python, NotebookLM, MCP, CLI |
 | [**ClawNexus**](https://github.com/prantikmedhi/ClawNexus) | Visual console for agent gateways, sessions, providers, skills, jobs, and MCP-style tooling. | Vite, React, TypeScript |
 | [**b2b-leads-ai**](https://github.com/prantikmedhi/b2b-leads-ai) | Finds and reviews local business leads with filtering and Google Sheets export. | Next.js, Tailwind CSS, OpenRouter, Google Sheets |
