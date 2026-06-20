@@ -5,7 +5,6 @@
 
 
 
-
 <a href="https://spotibadge.vercel.app/redirect/.eJwVzk9vgjAYgPGvsvQ8k5a8hXY3OpwzDCaZG38uhrZvAxpRwE3Msu8uuz75HZ5fMpAnEmZRF_Yt3V2ZMNh3t2jsosWYljKWquBsapR-1-pYfKX0vDss-0mebIE_exkPdJGppsQlqrS6rN-mlbqhERCvE6-RwSuUwSrJj9uyLa2tz1e1eflOB_-5yhG2eRXuP7rsFPNP8kjsfLIZ6u7SHh4StE07N9POUQtNDdTggEnwpK89JnxnoRYMNDrv342zowyd4R4CDzhQQGHBSIesNlIHYBn5uwOjuEkH.ea3Tv7S5nAAcVLk73QWUsLdsnH4">
   <img src="https://spotibadge.vercel.app/api/now-playing/.eJwVzk9vgjAYgPGvsvQ8k5a8hXY3OpwzDCaZG38uhrZvAxpRwE3Msu8uuz75HZ5fMpAnEmZRF_Yt3V2ZMNh3t2jsosWYljKWquBsapR-1-pYfKX0vDss-0mebIE_exkPdJGppsQlqrS6rN-mlbqhERCvE6-RwSuUwSrJj9uyLa2tz1e1eflOB_-5yhG2eRXuP7rsFPNP8kjsfLIZ6u7SHh4StE07N9POUQtNDdTggEnwpK89JnxnoRYMNDrv342zowyd4R4CDzhQQGHBSIesNlIHYBn5uwOjuEkH.ea3Tv7S5nAAcVLk73QWUsLdsnH4.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=1000&height=220&content_size=medium&compact=false&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&show_status=true" alt="Spotify Now Playing" width="1000" height="220" />
 </a>
