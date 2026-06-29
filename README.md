@@ -7,7 +7,7 @@
 
 
 <a href="https://spotibadge.vercel.app/redirect/.eJwVzstOhDAYQOFXMV1rQutfKO6Q0cpEJoji4Gwm9IaFcJ8LxPju4vbkW5wfNKIHFLwFwePyvI9K_bnlJOe7cN6_TtWWX9Rwoaa_SifuvWXMorJJBlFjMUQ4jOnLUDKz3Lv0QIVtdjJuq6bkm_PXRLtTPVeY37XzcchyqMLD-_Fjo_p6zPjV69JJWSc5dyXOmzSVT-gWqfUkGYv2ZOubWKtvuzZp1yiYcCQUYAD7QHxXEMxco6BgGIQ25N9Nq3OwNpISDdSj4IBmCqRvNC6kLzxQGP3-Aa24Sug.CYkct1mLBalBSrL4Y14f-XA0fCY">
-  <img src="https://spotibadge.vercel.app/api/now-playing/.eJwVzstOhDAYQOFXMV1rQutfKO6Q0cpEJoji4Gwm9IaFcJ8LxPju4vbkW5wfNKIHFLwFwePyvI9K_bnlJOe7cN6_TtWWX9Rwoaa_SifuvWXMorJJBlFjMUQ4jOnLUDKz3Lv0QIVtdjJuq6bkm_PXRLtTPVeY37XzcchyqMLD-_Fjo_p6zPjV69JJWSc5dyXOmzSVT-gWqfUkGYv2ZOubWKtvuzZp1yiYcCQUYAD7QHxXEMxco6BgGIQ25N9Nq3OwNpISDdSj4IBmCqRvNC6kLzxQGP3-Aa24Sug.CYkct1mLBalBSrL4Y14f-XA0fCY.svg?content_size=medium&background_type=blur_dark&border_color=ffffff&background_color=181414&width=540&height=135" alt="Spotify Now Playing" width="1000" height="220" />
+  <img src="https://spotibadge.vercel.app/api/now-playing/.eJwVzstOhDAYQOFXMV1rQutfKO6Q0cpEJoji4Gwm9IaFcJ8LxPju4vbkW5wfNKIHFLwFwePyvI9K_bnlJOe7cN6_TtWWX9Rwoaa_SifuvWXMorJJBlFjMUQ4jOnLUDKz3Lv0QIVtdjJuq6bkm_PXRLtTPVeY37XzcchyqMLD-_Fjo_p6zPjV69JJWSc5dyXOmzSVT-gWqfUkGYv2ZOubWKtvuzZp1yiYcCQUYAD7QHxXEMxco6BgGIQ25N9Nq3OwNpISDdSj4IBmCqRvNC6kLzxQGP3-Aa24Sug.CYkct1mLBalBSrL4Y14f-XA0fCY.svg?background_type=color&border_color=eeeeea&background_color=faf9f6&width=1000&height=220&content_size=medium&compact=false&song_color=2f2f2f&artist_color=8a8a86&status_color=b6b6b0&show_status=true" alt="Spotify Now Playing" width="1000" height="220" />
 </a>
 
 </div>
