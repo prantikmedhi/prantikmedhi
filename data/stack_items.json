@@ -1,13 +1,13 @@
 [
   {
-    "label": "TypeScript",
-    "slug": "typescript",
-    "accent": "#3178C6"
-  },
-  {
     "label": "JavaScript",
     "slug": "javascript",
     "accent": "#F7DF1E"
+  },
+  {
+    "label": "TypeScript",
+    "slug": "typescript",
+    "accent": "#3178C6"
   },
   {
     "label": "Python",
