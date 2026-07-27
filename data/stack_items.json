@@ -1,5 +1,10 @@
 [
   {
+    "label": "Python",
+    "slug": "python",
+    "accent": "#3776AB"
+  },
+  {
     "label": "JavaScript",
     "slug": "javascript",
     "accent": "#F7DF1E"
@@ -8,11 +13,6 @@
     "label": "TypeScript",
     "slug": "typescript",
     "accent": "#3178C6"
-  },
-  {
-    "label": "Python",
-    "slug": "python",
-    "accent": "#3776AB"
   },
   {
     "label": "Rust",
