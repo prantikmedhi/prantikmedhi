@@ -23,7 +23,7 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: >-
-            user=${{ github.repository_owner }}&background=faf9f6&border=eeeeea&stroke=eeeeea&ring=dc143c&fire=dc143c&currStreakNum=2f2f2f&sideNums=2f2f2f&currStreakLabel=8a8a86&sideLabels=8a8a86&dates=8a8a86&disable_animations=true&timezone=Asia%2FKolkata&card_width=1000&card_height=220
+            user=${{ github.repository_owner }}&background=faf9f6&border=eeeeea&stroke=eeeeea&ring=dc143c&fire=dc143c&currStreakNum=2f2f2f&sideNums=2f2f2f&currStreakLabel=8a8a86&sideLabels=8a8a86&dates=8a8a86&disable_animations=true&timezone=Asia%2FKolkata&starting_year=2021&card_width=1000&card_height=220
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
