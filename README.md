@@ -37,6 +37,8 @@
 
 ## Make your own:
 (https://github.com/prantikmedhi/spotibadge)
+</details>
+
 <details>
 <summary><strong>GitHub streak</strong></summary>
 
