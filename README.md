@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=prantikmedhi&background=faf9f6&border=eeeeea&stroke=eeeeea&ring=dc143c&fire=dc143c&currStreakNum=2f2f2f&sideNums=2f2f2f&currStreakLabel=8a8a86&sideLabels=8a8a86&dates=8a8a86&disable_animations=true&timezone=Asia%2FKolkata&card_width=1000&card_height=220" alt="GitHub streak stats" width="1000" />
+    <img src="./profile/streak.svg" alt="GitHub streak stats" width="1000" />
   </a>
 </p>
 
