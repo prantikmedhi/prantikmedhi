@@ -23,7 +23,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(166.66666666667, 60.5)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#2f2f2f' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        5,068
+                        5,114
                     </text>
                 </g>
 
@@ -37,7 +37,7 @@
                 <!-- Total Contributions range -->
                 <g transform='translate(166.66666666667, 126.5)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#8a8a86' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        Apr 4, 2023 - Present
+                        Aug 3, 2021 - Present
                     </text>
                 </g>
             </g>
