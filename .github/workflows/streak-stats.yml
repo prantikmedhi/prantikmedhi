@@ -29,7 +29,7 @@ jobs:
 
       - name: Commit generated streak card
         run: |
-          if git diff --quiet -- profile/streak.svg; then
+          if [ -z "$(git status --porcelain -- profile/streak.svg)" ]; then
             echo "No streak changes to commit"
             exit 0
           fi
