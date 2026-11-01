@@ -52,6 +52,12 @@
 
 </details>
 
+<p align="center">
+  <a href="https://gist.github.com/prantikmedhi/b1f3aa75a913107b42a936a1d35e8689"><img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/prantikmedhi/b1f3aa75a913107b42a936a1d35e8689/raw/week.json&style=for-the-badge" alt="Claude Code tokens, last 7 days" /></a>
+  <a href="https://gist.github.com/prantikmedhi/b1f3aa75a913107b42a936a1d35e8689"><img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/prantikmedhi/b1f3aa75a913107b42a936a1d35e8689/raw/month.json&style=for-the-badge" alt="Claude Code tokens, this month" /></a>
+  <a href="https://gist.github.com/prantikmedhi/b1f3aa75a913107b42a936a1d35e8689"><img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/prantikmedhi/b1f3aa75a913107b42a936a1d35e8689/raw/lifetime.json&style=for-the-badge" alt="Claude Code tokens, lifetime" /></a>
+</p>
+
 <table>
   <tr>
     <td width="58%" valign="top">
