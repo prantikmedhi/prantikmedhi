@@ -5,14 +5,14 @@
     "accent": "#3776AB"
   },
   {
-    "label": "TypeScript",
-    "slug": "typescript",
-    "accent": "#3178C6"
-  },
-  {
     "label": "JavaScript",
     "slug": "javascript",
     "accent": "#F7DF1E"
+  },
+  {
+    "label": "TypeScript",
+    "slug": "typescript",
+    "accent": "#3178C6"
   },
   {
     "label": "Rust",
@@ -25,14 +25,14 @@
     "accent": "#111111"
   },
   {
-    "label": "Tailwind CSS",
-    "slug": "tailwindcss",
-    "accent": "#06B6D4"
-  },
-  {
     "label": "Node.js",
     "slug": "nodedotjs",
     "accent": "#5FA04E"
+  },
+  {
+    "label": "Tailwind CSS",
+    "slug": "tailwindcss",
+    "accent": "#06B6D4"
   },
   {
     "label": "React",
